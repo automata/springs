@@ -13,6 +13,9 @@
   "dependencies": {
     "facebook/rebound-js": "v0.0.8"
   },
+  "remotes": [
+    "https://raw.githubusercontent.com"
+  ],
   "main": "lib/springs.js",
   "license": "MIT"
 }
