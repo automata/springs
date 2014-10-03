@@ -11,7 +11,7 @@
     "lib/springs.js"
   ],
   "dependencies": {
-    "facebook/rebound-js": "v0.0.8"
+    "automata/rebound-js": "v0.0.8"
   },
   "remotes": [
     "https://raw.githubusercontent.com"
